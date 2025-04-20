@@ -108,14 +108,17 @@ Enhanced forecast reports using historical sales and financial data to improve f
 🌟 **Project Results**
 **Gross Margin Increase**: Early analysis of the Power BI dashboard suggested the possibility of increasing the company's gross margin by up to 30% by focusing on cost-effective product lines and high-performing regions.
 
+
+
+**Expense Reduction**: Through better COGS tracking and analysis, the company forecasted a potential 20% reduction in expenses by streamlining its operations and focusing on profitability.
+
+**Improved Forecast Accuracy**: The dashboard also allowed for more accurate forecasting by visualizing historical trends, which helped leadership make more informed predictions.
+
+
+
 **Conclusion**
 
 This project showcases the power of modern data analytics tools such as Power BI in transforming traditional reporting processes. By leveraging real-time data, the leadership at AtliQ is now empowered to make more informed decisions, driving both increased gross margin and reduced operational expenses.
 
 
 Explore my live dashboard here: https://app.powerbi.com/view?r=eyJrIjoiMDEzOTI1MDctZjk1Yi00M2QzLWI2ZmMtOTZkZDA2ZWI1YjdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
-**Expense Reduction**: Through better COGS tracking and analysis, the company forecasted a potential 20% reduction in expenses by streamlining its operations and focusing on profitability.
-
-**Improved Forecast Accuracy**: The dashboard also allowed for more accurate forecasting by visualizing historical trends, which helped leadership make more informed predictions.
-
